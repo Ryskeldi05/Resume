@@ -2,7 +2,7 @@
 body {
     font: 16px Helvetica, Sans-Serif;
     line-height: 24px;
-    background: url(/Users/nazgul/PycharmProjects/HTML_resume/resume_official/noise.jpeg);
+    background: url(Resume/noise.jpeg);
 }
 
 .clear {
